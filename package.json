@@ -1,0 +1,21 @@
+{
+  "name": "colorcodes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.29",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "package.json": "^2.0.1",
+    "react": "^16.2.0",
+    "react-collapse": "^4.0.3",
+    "react-dom": "^16.2.0",
+    "react-motion": "^0.5.2",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
