@@ -1,11 +1,12 @@
 import React from 'react';
 import propTypes from 'prop-types';
-import Avatar from 'material-ui/Avatar';
-import List, { ListItem, ListItemText } from 'material-ui/List';
-import Collapse from 'material-ui/transitions/Collapse';
-import { withStyles } from 'material-ui/styles';
-import ExpandLess from 'material-ui-icons/ExpandLess';
-import ExpandMore from 'material-ui-icons/ExpandMore';
+import Avatar from '@material-ui/core/Avatar';
+import List from '@material-ui/core/List';
+import ListItem from '@material-ui/core/ListItem'
+import ListItemText from '@material-ui/core/ListItemText'
+import Collapse from '@material-ui/core/Collapse';
+import { withStyles } from '@material-ui/core/styles';
+import { ExpandLess, ExpandMore } from '@material-ui/icons';
 import styles from './employee.css';
 import App from '../App'
 

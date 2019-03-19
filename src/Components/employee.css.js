@@ -1,5 +1,5 @@
-import deepOrange from 'material-ui/colors/deepOrange';
-import deepPurple from 'material-ui/colors/deepPurple';
+import deepOrange from '@material-ui/core/colors/deepOrange';
+import deepPurple from '@material-ui/core/colors/deepPurple';
 
 export default {
   nested: {
